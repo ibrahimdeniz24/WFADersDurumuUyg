@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\bin\Debug\WFADersDurumuUygulumaÖrneği.exe.config
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\bin\Debug\WFADersDurumuUygulumaÖrneği.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\bin\Debug\WFADersDurumuUygulumaÖrneği.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\obj\Debug\WFADersDurumuUygulumaÖrneği.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\obj\Debug\WFADersDurumuUygulumaÖrneği.Form1.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\obj\Debug\WFADersDurumuUygulumaÖrneği.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\obj\Debug\WFADersDurumuUygulumaÖrneği.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\obj\Debug\WFADersDurumuUygulumaÖrneği.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\obj\Debug\WFADersDurumuUygulumaÖrneği.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFADersDurumuUygulumaÖrneği\WFADersDurumuUygulumaÖrneği\obj\Debug\WFADersDurumuUygulumaÖrneği.pdb
